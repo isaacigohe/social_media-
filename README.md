@@ -1,6 +1,6 @@
 # SocialMedia Django API
 
-A full-featured social media REST API built with Django & DRF.
+A  full-featured social media REST API built with Django & DRF.
 
 ## Quick Start
 
